@@ -1,0 +1,46 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "MIB: Homens de Preto - Internacional",
+      "resumo": "Filme do MIB",
+      "atores": "Chris Hemsworth",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/a/a6/MIB_Quartet_logo.jpg",
+      "duracao": 115
+    },
+    {
+      "id": 2,
+      "titulo": "Venom",
+      "resumo": "Filme do Venom",
+      "atores": "Tom Hardy",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Venom_cosplay_madrid.jpg",
+      "duracao": 140
+    },
+
+    {
+      "id": 3,
+      "titulo": "O Espetacular Homem-Aranha",
+      "resumo": "Filme do Homem Aranha",
+      "atores": "Andrew Garfield",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/d/da/Spiderman_-_Madame_Tussauds_Bangkok.jpg",
+      "duracao": 136
+    }
+  ],
+  "atores": [
+    {
+      "id": 1,
+      "nome": "Chris Hemsworth",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Tom Hardy",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/4/43/Tom_Hardy_by_Gage_Skidmore.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "Andrew Garfield",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Andrew_Garfield_in_2023_%28cropped%29.jpg"
+    }
+  ]
+}
